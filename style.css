@@ -189,7 +189,7 @@ font-weight: 400;
   }
   .about-section {
     background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%),
-      url(/images/watch.png);
+      url(./images/watch.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
