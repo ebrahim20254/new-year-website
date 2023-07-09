@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+   height: 100vh;
+   width: 100%;
+    background-image: url('images/banner/banner2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.nav-text{
+ width: 50%;
+color:  #444343;
+font-size: 16px;
+font-weight: 400;
+}
+.nav-text h1{
+    color:  #151414;
+    font-size: 65px;
+    font-weight: 700;
+    display: flex;
+    text-align: right;
+}
+.nav-text div{
+   width: 70%;
+   text-align: center;
+}
+/* .nav-text button{
+    border-radius: 5px;
+  background: #F15B22;
+  color: #FFF;
+  text-align: right;
+  font-family: Work Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+} */
+.nav-text button{
+    width: 160px;
+    height: 54px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    background: #F15B22;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    margin-top: 43px; */
+}
+/*************** main section start now  ***************/
