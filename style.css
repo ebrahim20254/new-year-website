@@ -53,6 +53,182 @@ font-weight: 400;
     font-weight: 600;
     font-size: 20px;
     line-height: 23px;
-    margin-top: 43px; */
+    margin-top: 43px; 
 }
 /*************** main section start now  ***************/
+    /* .my-failures {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 131px auto;
+        max-width: 1072px;
+}
+.my-failures-text h2 {
+    width: 288px;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 24px;
+  }
+.my-failures-text p{
+    width: 416px;
+    height: 104px;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+.check-box{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-bottom: 8px;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+.check-box div img {
+    margin-right: 10px;
+  } */
+  .my-failures {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 131px auto;
+    max-width: 1072px;
+  }
+  .my-failures-text {
+    width: 416px;
+    margin-left: 87px;
+  }
+  .my-failures-text h2 {
+    width: 288px;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 24px;
+  }
+  .my-failures-text p {
+    width: 416px;
+    height: 104px;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+  }
+  .check-box div {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-bottom: 8px;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+  
+    color: #444343;
+  }
+  .check-box div img {
+    margin-right: 10px;
+  }
+  .my-plans {
+    max-width: 1072px;
+    text-align: center;
+    padding-bottom: 20px;
+    margin: 0 auto;
+  }
+  .my-plans h2{
+    color:  #151414;
+  font-family: Work Sans;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+ line-height: normal;
+ text-align: center;
+ margin-bottom: 30px;
+
+  }
+  .my-plan-box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .my-plan-box h3{
+  color:  #151414;
+  text-align: center;
+  font-family: Work Sans;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  }
+  .my-plan-box p{
+    color:  #737272;
+  text-align: center;
+  font-family: Work Sans;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+ line-height: normal;
+  }
+  .about-section {
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%),
+      url(/images/watch.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 1140px;
+    margin: 130px auto;
+    padding: 64px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    border-radius: 8px;
+    /* flex-direction: column; */
+    /* background:  */
+  }
+  .about-section h2 {
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2280.96px;
+  
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+  
+    color: #ffffff;
+  }
+  
+  .about-section button {
+    width: 160px;
+    height: 54px;
+    color: #005fac;
+    border-radius: 5px;
+    border: none;
+    background-color: #ffffff;
+    font-family: "Work Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    margin-top: 43px;
+  }
